@@ -1,0 +1,15 @@
+{
+  "seed": 42,
+  "subset_size": 3000,
+  "ratios": {
+    "train": 0.8,
+    "validation": 0.1,
+    "test": 0.1
+  },
+  "counts": {
+    "train": 2400,
+    "validation": 300,
+    "test": 300
+  },
+  "selection_method": "Sort by utterance ID, shuffle with Python random.Random(seed), select the first subset_size records, then split by position."
+}
