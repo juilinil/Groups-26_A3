@@ -1,0 +1,10 @@
+{
+  "debug": false,
+  "best_validation_loss": 0.40933211574951806,
+  "best_step": 500,
+  "best_checkpoint": "E:\\work\\Groups-26_A3\\runs\\expA_20261029_124740_320251\\best",
+  "completed_steps": 500,
+  "manifest_sha256": "a9c52de146c23328250419b6666fb71fbdb71f05db7ed31114b8f61050fa1b0c",
+  "test_evaluation": "not performed",
+  "manifest_content_sha256": "64a2db28bb18b5aedcc0be012d80d0e0569a774dad554b2e6238068574dcb885"
+}
