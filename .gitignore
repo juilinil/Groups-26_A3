@@ -1,3 +1,11 @@
 LJSpeech-1.1/
 .ipynb_checkpoints/
 __pycache__/
+# Local environments and training outputs
+.venv*/
+runs/
+checkpoints/
+.cache/
+.env
+*.tar.bz2
+# Keep configs/, splits/, source, requirements, speaker vector and results tracked.

@@ -1,0 +1,10 @@
+{
+  "name": "expB",
+  "debug": false,
+  "seed": 42,
+  "max_steps": 500,
+  "batch_size": 1,
+  "gradient_accumulation_steps": 4,
+  "learning_rate": 2e-05,
+  "eval_steps": 100
+}
