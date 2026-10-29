@@ -1,0 +1,14 @@
+{
+  "python": "3.11.15 (main, Mar 10 2026, 18:12:25) [MSC v.1944 64 bit (AMD64)]",
+  "executable": "e:\\work\\TTS_A3\\.venv\\Scripts\\python.exe",
+  "packages": {
+    "torch": "2.8.0+cu128",
+    "torchaudio": "2.8.0+cu128",
+    "transformers": "4.57.6",
+    "numpy": "2.4.6",
+    "scipy": "1.17.1",
+    "soundfile": "0.14.0",
+    "sentencepiece": "0.2.2",
+    "speechbrain": "1.0.3"
+  }
+}
