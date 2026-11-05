@@ -182,6 +182,8 @@ def evaluate_model(
         "aggregate_rtf": sum(times) / sum(durations),
         "sample_rate_hz": int(last_result["sample_rate"]),
     }
+    
+    return run_rows, prompt_rows, summary
 
 def main() -> None:
     parser = argparse.ArgumentParser(description=__doc__)
@@ -293,3 +295,4 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
+
